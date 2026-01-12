@@ -1,2 +1,2 @@
-# EXTM3U_Generator
+# EXTM3U Generator
 Generate Playlist From DIR
